@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # def fact(n):
 #     f=1
 #     for i in range(1,n+1):
@@ -15,7 +15,4 @@ def fact(n):
 
 result= fact(4)
 print(result)
-
-=======
->>>>>>> origin/master
 
